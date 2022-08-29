@@ -1,2 +1,2 @@
 # paint-clone-js
- Microsoft Paint clone made with html, css, and javascript
+ Paint tool made with html, css, and javascript. Allows user save canvas as an image and to local storage.
